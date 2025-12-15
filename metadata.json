@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CuniGestion Pro",
+  "description": "Application complète de gestion d'élevage de lapins : suivi généalogique, reproduction, santé et finances.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
